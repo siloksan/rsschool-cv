@@ -6,14 +6,12 @@
 * __Telegram__: [tutel_san](https://t.me/tutel_san)
 ## About me
  "I am 37 years old. For the past 3 years, I have been working as an engineer at a factory. Throughout this year, I have been learning frontend development and I really enjoy it. I hope this course will accelerate my learning process."
-
- ## Skills:
+## Skills:
  * _HTML & CSS_
  * _Javascript_
  * _React & Redux_
  * _Git_
-
- ## Code example
+## Code example
  ```
  const maxNumber = (arr) => {
 		if (arr.length === 1) {
