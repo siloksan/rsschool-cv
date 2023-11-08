@@ -1,11 +1,11 @@
 # Kurtin Evgeniy
 ## My Contacts
-* __Location__ : _Yaroslavl, Russian_
+* __Location__ : _Yaroslavl, Russia_
 * __E-mail__: tutel07@gmail.com
-* __GitHub:__: [siloksan](https://github.com/siloksan)
+* __GitHub__: [siloksan](https://github.com/siloksan)
 * __Telegram__: [tutel_san](https://t.me/tutel_san)
 ## About me
- "I'm 37 years old. For the past 3 years, I have been working as an engineer at a factory. Throughout this year, I have been learning frontend development and I really enjoy it. I hope this course will accelerate my learning process."
+ "I am 37 years old. For the past 3 years, I have been working as an engineer at a factory. Throughout this year, I have been learning frontend development and I really enjoy it. I hope this course will accelerate my learning process."
 
  ## Skills:
  * _HTML & CSS_
